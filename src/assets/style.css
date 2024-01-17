@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    :root {
+        --light-cyan: 206, 227, 233;
+        --neon-green: 82, 255, 168;
+        --grayish-blue: 78, 93, 115;
+        --dark-grayish-blue: 50, 58, 73;
+        --dark-blue: 31, 38, 50;
+    }
+}
